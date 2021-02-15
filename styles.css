@@ -10177,7 +10177,7 @@ h3 {
   font-size: 3rem;
   line-height: 3rem;
   color: #1abc9c;
-  opacity: 100;
+  opacity: 1;
 }
 
 .floating-label-form-group {
@@ -10206,7 +10206,7 @@ h3 {
   display: block;
   margin: 0;
   transition: top 0.3s ease, opacity 0.3s ease;
-  opacity: 0;
+  opacity: 1;
 }
 .floating-label-form-group:not(:first-child) {
   padding-left: 14px;
