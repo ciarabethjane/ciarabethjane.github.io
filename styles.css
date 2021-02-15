@@ -10149,11 +10149,11 @@ h3 {
   position: absolute;
   top: 0;
   left: 0;
-  opacity: 100;
-  background-color: rgba(8, 214, 241, 0.9);
+  opacity: 1;
+  background-color: #17a2b8;
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
-  opacity: 100;
+  opacity: 1;
 }
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
   font-size: 1.5rem;
