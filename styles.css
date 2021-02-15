@@ -10150,7 +10150,7 @@ h3 {
   top: 0;
   left: 0;
   opacity: 1;
-  background-color: #17a2b8;
+  background-color: rgba(23, 162, 184, 0.5);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
